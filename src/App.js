@@ -1,25 +1,42 @@
 // import logo from './logo.svg';
-import './App.css';
-import Header from "./section/header.js";
-import Trip from "./section/trip.js"
-import data from "./section/data.js"
+// import './App.css';
+// import Header from "./section/header.js";
+// import Trip from "./section/trip.js"
+// import data from "./section/data.js"
+
+// import Header from "./section2/header1.js"
+// import Meme from "./section2/meme.js"
+// import "./section2/style2.css"
+// import memesData from "./section/memesData.js";
+import "./section2/style3.css"
+// import Exercise from "./section2/exercise.js"
+import Index from "./section2/index.js"
 
 function App() {
-  const content = data.map(item =>{
-    return (
-      <Trip
-        {...item}
-      />
-    )
-  })
+  // const content = data.map(item =>{
+  //   return (
+  //     <Trip
+  //       {...item}
+  //     />
+  //   )
+  // })
   return (
+    // <div className="container">
+    // <Exercise />
+    // </div>
     <div>
-      <Header />
-      <section>
-        {content}
-
-      </section>
+      <Index />
+      {/* <Header />
+      <Meme /> */}
     </div>
+
+    // <div>
+    //   <Header />
+    //   <section>
+    //     {content}
+
+    //   </section>
+    // </div>
 
     // <div className="App">
     //   <header className="App-header">
