@@ -1,16 +1,17 @@
 // import logo from './logo.svg';
-// import './App.css';
+// import './App.css'
 // import Header from "./section/header.js";
-// import Trip from "./section/trip.js"
-// import data from "./section/data.js"
-
-// import Header from "./section2/header1.js"
-// import Meme from "./section2/meme.js"
-// import "./section2/style2.css"
+// import Trip from "./section/trip.js";
+// import data from "./section/data.js";
+// import "./section2/style2.css";
 // import memesData from "./section/memesData.js";
-import "./section2/style3.css"
-// import Exercise from "./section2/exercise.js"
-import Index from "./section2/index.js"
+// import Exercise from "./section2/exercise.js";
+// import "./section2/style3.css";
+import "./section2/index2.css";
+// import Index from "./section2/index.js";
+import Index2 from "./section2/index2.js";
+// import Header from "./section2/header1.js";
+// import Meme from "./section2/meme.js";
 
 function App() {
   // const content = data.map(item =>{
@@ -25,7 +26,7 @@ function App() {
     // <Exercise />
     // </div>
     <div>
-      <Index />
+      <Index2 />
       {/* <Header />
       <Meme /> */}
     </div>
