@@ -9,7 +9,8 @@
 // import "./section2/style3.css";
 import "./section2/index2.css";
 // import Index from "./section2/index.js";
-import Index2 from "./section2/index2.js";
+// import Index2 from "./section2/index2.js";
+import Counter from "./section2/index3.js";
 // import Header from "./section2/header1.js";
 // import Meme from "./section2/meme.js";
 
@@ -26,7 +27,8 @@ function App() {
     // <Exercise />
     // </div>
     <div>
-      <Index2 />
+      {/* <Index2 /> */}
+      <Counter />
       {/* <Header />
       <Meme /> */}
     </div>

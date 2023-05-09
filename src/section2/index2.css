@@ -1,5 +1,5 @@
 body {
-    background: #555;
+    background: #222;
     color: #fff;
     margin: 50px auto;
     display: flex;
@@ -28,4 +28,51 @@ body {
     border-radius: 50%;
     color: #555;
     background: #fff;
+}
+
+.counter {
+    display: flex;
+    position: relative;
+
+}
+.counter-minus, .counter-plus {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    background: #555;
+    font-size: 1rem;
+}
+
+.counter-plus {
+    right: -20px;
+    bottom: -5px;
+}
+
+.counter-minus {
+    left: -20px;
+    bottom: -5px;
+}
+
+.counter-minus:hover, .counter-plus:hover {
+    background: #000;
+    transition: background ease 1s;
+}
+.counter-count {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    border: none;
+    background: #fff;
+    color: #555;
+    width: 50px;
+    height:50px;
+    padding: 20px;
+    
 }
