@@ -5,12 +5,18 @@ export default function Counter() {
 
  function add() {
     // alert("add")
-    setCount(+1)
+    // setCount(count + 1)
+    // setCount(function (oldValue){
+    //     return oldValue + 1
+    // })
+    setCount(prevCount => prevCount + 1)
+
  }
  
  function subtract() {
     // alert("add")
-    setCount(-1)
+    // setCount(count - 1)
+    setCount(prevCount => prevCount - 1)
  }
 
 
