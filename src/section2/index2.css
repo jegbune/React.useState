@@ -28,6 +28,7 @@ body {
     border-radius: 50%;
     color: #555;
     background: #fff;
+    cursor: pointer;
 }
 
 .counter {

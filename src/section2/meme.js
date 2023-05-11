@@ -35,7 +35,7 @@ function Meme() {
                     Get a new meme image 🖼
                      </button>
             </div>
-            <img src={memeImage} className="meme-image" alt="memeImage" />
+            <img src={memeImage} className="meme-image" />
         </main>
 
 

@@ -3,16 +3,16 @@
 // import Header from "./section/header.js";
 // import Trip from "./section/trip.js";
 // import data from "./section/data.js";
-import "./section2/style2.css";
+// import "./section2/style2.css";
 // import memesData from "./section/memesData.js";
 // import Exercise from "./section2/exercise.js";
-// import "./section2/style3.css";
+import "./section2/style3.css";
 // import "./section2/index2.css";
-// import Index from "./section2/index.js";
+import Index from "./section2/index.js";
 // import Index2 from "./section2/index2.js";
 // import Counter from "./section2/index3.js";
-import Header from "./section2/header1.js";
-import Meme from "./section2/meme.js";
+// import Header from "./section2/header1.js";
+// import Meme from "./section2/meme.js";
 
 function App() {
   // const content = data.map(item =>{
@@ -26,15 +26,16 @@ function App() {
     // <div className="container">
     // <Exercise />
     // </div>
-    <div>
-      {/* <Index2 /> */}
-      {/* <Counter />  */}
-      <Header />
-      <Meme />
-    </div>
+    // <div>
+      // <Index2 />
+      <Index />
+    //   <Counter /> 
+      // <Header />
+    //   <Meme />
+    // </div>
 
     // <div>
-    //   <Header />
+      // <Header />
     //   <section>
     //     {content}
 
@@ -60,4 +61,4 @@ function App() {
   );
 }
 
-export default App;
+export default App
