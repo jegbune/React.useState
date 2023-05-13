@@ -6,13 +6,15 @@
 // import "./section2/style2.css";
 // import memesData from "./section/memesData.js";
 // import Exercise from "./section2/exercise.js";
-import "./section2/style3.css";
+// import "./section2/style3.css";
 // import "./section2/index2.css";
-import Index from "./section2/index.js";
+// import Index from "./section2/index.js";
 // import Index2 from "./section2/index2.js";
 // import Counter from "./section2/index3.js";
 // import Header from "./section2/header1.js";
 // import Meme from "./section2/meme.js";
+import Card from "./section2/Card.js"
+import "./section2/card.css"
 
 function App() {
   // const content = data.map(item =>{
@@ -28,7 +30,8 @@ function App() {
     // </div>
     // <div>
       // <Index2 />
-      <Index />
+      // <Index />
+    <Card />
     //   <Counter /> 
       // <Header />
     //   <Meme />
