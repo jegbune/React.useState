@@ -3,9 +3,9 @@ import React from "react";
 function Count(props) {
     return (
         <div className="counter-count">
-                <h1>{props}</h1>
+                <h1>{props.number}</h1>
             </div>
     )
 }
 
-export default Count
+export default Count 
