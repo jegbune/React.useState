@@ -1,5 +1,5 @@
 import React from "react";
-
+import Count from "./section2/Count.js"
 export default function Counter() {
  const [count, setCount] = React.useState(0)
 
@@ -23,9 +23,8 @@ export default function Counter() {
     return(
         <div className="counter">
             <button className="counter-minus" onClick={subtract}>-</button>
-            <div className="counter-count">
-                <h1>{count}</h1>
-            </div>
+            <Count
+            number ={count} />
             <button className="counter-plus" onClick={add}>+</button>
         </div>
     )

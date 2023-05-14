@@ -22,7 +22,9 @@ body{
 }
 
 .star {
+    display: block;
     width: 20px;
+    transition: display ease 10s;
 }
 
 p {
