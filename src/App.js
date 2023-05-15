@@ -7,14 +7,14 @@
 // import Header from "./section2/header1.js";
 // import Meme from "./section2/meme.js";
 // import memesData from "./section/memesData.js";
-import "./section2/index2.css";
-import Counter from "./section2/index3.js";
+// import "./section2/index2.css";
+// import Counter from "./section2/index3.js";
 // import Exercise from "./section2/exercise.js";
 // import "./section2/style3.css";
 // import Index from "./section2/index.js";
 // import Index2 from "./section2/index2.js";
-// import Card from "./section2/Card.js"
-// import "./section2/card.css"
+import Card from "./section2/Card.js"
+import "./section2/card.css"
 
 function App() {
   // const content = data.map(item =>{
@@ -30,10 +30,10 @@ function App() {
     // </div>
     <div>
      {/* <Index2 />
-     <Index />
-     <Card /> */}
-      <Counter /> 
-      {/* <Header />
+     <Index /> */}
+     <Card />
+      {/*<Counter /> 
+       <Header />
       <Meme /> */}
     </div>
 
