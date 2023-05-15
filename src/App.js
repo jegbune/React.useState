@@ -1,3 +1,4 @@
+import React from "react"
 // import logo from './logo.svg';
 // import './App.css'
 // import Header from "./section/header.js";
@@ -13,8 +14,13 @@
 // import "./section2/style3.css";
 // import Index from "./section2/index.js";
 // import Index2 from "./section2/index2.js";
-import Card from "./section2/Card.js"
-import "./section2/card.css"
+// import Card from "./section2/Card.js"
+// import "./section2/card.css"
+// import Header from "./section2/header.js"
+// import Body from "./section2/Body.js"
+// import "./section2/body.css"
+import Boxes from "./section2/boxes.js"
+import "./section2/boxes.css"
 
 function App() {
   // const content = data.map(item =>{
@@ -24,17 +30,37 @@ function App() {
   //     />
   //   )
   // })
+
+
+  
+  // const [user, setUser] = React.useState("Bobs")
+  const [squares, setSquares] = React.useState(Boxes)
+
+  const squareElement = squares.map(square => (
+    <div className="box" key ={square.id}>
+
+    </div>
+  ))
+
   return (
     // <div className="container">
     // <Exercise />
     // </div>
     <div>
      {/* <Index2 />
-     <Index /> */}
-     <Card />
+     <Index /> 
+     <Card /> */}
       {/*<Counter /> 
        <Header />
       <Meme /> */}
+
+      {/* <Header
+      name = {user}  />
+      <Body
+      name = {user}  /> */}
+
+      {squareElement}
+
     </div>
 
     // <div>
