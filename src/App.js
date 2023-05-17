@@ -8,8 +8,8 @@ import React from "react"
 // import Header from "./section2/header1.js";
 // import Meme from "./section2/meme.js";
 // import memesData from "./section/memesData.js";
-// import "./section2/index2.css";
-// import Counter from "./section2/index3.js";
+import "./section2/index2.css";
+import Counter from "./section2/index3.js";
 // import Exercise from "./section2/exercise.js";
 // import "./section2/style3.css";
 // import Index from "./section2/index.js";
@@ -19,8 +19,8 @@ import React from "react"
 // import Header from "./section2/header.js"
 // import Body from "./section2/Body.js"
 // import "./section2/body.css"
-import Boxes from "./section2/boxes.js"
-import "./section2/boxes.css"
+// import Boxes from "./section2/boxes.js"
+// import "./section2/boxes.css"
 
 function App() {
   // const content = data.map(item =>{
@@ -34,13 +34,13 @@ function App() {
 
   
   // const [user, setUser] = React.useState("Bobs")
-  const [squares, setSquares] = React.useState(Boxes)
+  // const [squares, setSquares] = React.useState(Boxes)
 
-  const squareElement = squares.map(square => (
-    <div className="box" key ={square.id}>
+  // const squareElement = squares.map(square => (
+  //   <div className="box" key ={square.id}>
 
-    </div>
-  ))
+  //   </div>
+  // ))
 
   return (
     // <div className="container">
@@ -50,8 +50,8 @@ function App() {
      {/* <Index2 />
      <Index /> 
      <Card /> */}
-      {/*<Counter /> 
-       <Header />
+      <Counter /> 
+      {/*  <Header />
       <Meme /> */}
 
       {/* <Header
@@ -59,7 +59,7 @@ function App() {
       <Body
       name = {user}  /> */}
 
-      {squareElement}
+      {/* {squareElement} */}
 
     </div>
 
