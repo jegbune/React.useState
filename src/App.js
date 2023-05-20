@@ -19,10 +19,10 @@ import React from "react"
 // import Header from "./section2/header.js"
 // import Body from "./section2/Body.js"
 // import "./section2/body.css"
-import Boxes from "./section2/boxes.js"
 import "./section2/boxes.css"
+import Box from "./section2/box";
 
-function App(props) {
+function App() {
   // const content = data.map(item =>{
   //   return (
   //     <Trip
@@ -34,17 +34,7 @@ function App(props) {
 
   
   // const [user, setUser] = React.useState("Bobs")
-  const style = {
-    backgroundColor: props.darkMode ? "#ccc" : "#000"
-  }
-  const [squares, setSquares] = React.useState(Boxes)
-
-  const squareElement = squares.map(square => (
-    <div className="box" style={style} key ={square.id}>
-
-    </div>
-  ))
-
+  
   return (
     // <div className="container">
     // <Exercise />
@@ -61,8 +51,9 @@ function App(props) {
       name = {user}  />
       <Body
       name = {user}  /> */}
-
-      {squareElement}
+        <Box
+        darkMode = {true}
+        />
 
     </div>
 
