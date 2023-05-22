@@ -6,12 +6,36 @@ export default function Box(props) {
 
     // const style ={backgroundColor:props.darkMode ? "#ccc" : "#000"}
     
-      const [squares, setsquares] = React.useState(Boxes)
+      const [squares, setSquares] = React.useState(Boxes)
     
-
+    
+    function toggle(id) {
+         setSquares(prevSquares => {
+          const newSquares = []
+          for(let i = 0; i< prevSquares.length; i++) {
+              const currentSquare = prevSquares[i]
+              if(currentSquare.id === id) {
+                const updatedSquare = {
+                  ...currentSquare,
+                  on: !currentSquare.on
+                }
+                newSquares.push(updatedSquare)
+              }else {
+                newSquares.push(currentSquare)
+              }
+          }
+          return newSquares 
+         } )
+         
+      }
       const squareElement = squares.map(square => (
         // <div className="box" style={style}></div>
-            <Box1 key ={square.id} on ={square.on} />
+            <Box1 
+            key ={square.id} 
+            id ={square.id} 
+            on ={square.on} 
+            toggle = {toggle}
+            />
             ))
       
       return (
