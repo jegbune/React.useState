@@ -12,7 +12,7 @@ export default function Box(props) {
     function toggle(id) {
          setSquares(prevSquares => {
           const newSquares = []
-          for(let i = 0; i< prevSquares.length; i++) {
+          for(let i = 0; i  < prevSquares.length; i++) {
               const currentSquare = prevSquares[i]
               if(currentSquare.id === id) {
                 const updatedSquare = {
