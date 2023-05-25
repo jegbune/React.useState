@@ -1,4 +1,4 @@
-import MainPage from "./object.js"
+import MainPage from "./FirstProject/object"
 // import Header from "./header.js"
 function App() {
       return(
