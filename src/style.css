@@ -3,8 +3,31 @@
 }
 img {
     margin-left: -15px;
+    display: block;
+    max-width: 100%;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 50px;
+}
+
+ul {
+    display: flex;
+    font-weight: 700;
+}
+li{
+    list-style: none;
+    margin-right: 20px;
 }
 
 h1 {
     margin: 0;
+}
+
+footer {
+    text-align: center;
+    /* background: green; */
+    padding: 10px;
 }
