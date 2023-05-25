@@ -1,10 +1,8 @@
-import Object from "./object.js"
+import MainPage from "./object.js"
 // import Header from "./header.js"
 function App() {
       return(
-        <div>
-        <Object />
-        </div>
+        <MainPage />
       )
 }
 
