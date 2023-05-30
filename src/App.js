@@ -1,12 +1,21 @@
-import MainPage from "./FirstProject/object"
-// import Header from "./header.js"
-function App() {
-      return(
-        <MainPage />
-      )
-}
 
-export default App
+
+// const Greet = () =><h1>Hello Jeremiah</h1>
+
+// export default Greet
+
+// import MainPage from "./FirstProject/object"
+
+// import MainPage from "./airbnb/mainpage"
+// function App() {
+//       return(
+//         <div>
+//         <MainPage />
+//         </div>
+//       )
+// }
+
+// export default App
 
 
 
