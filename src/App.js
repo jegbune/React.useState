@@ -1,8 +1,22 @@
+import Greet from "./components/Greet";
+import Welcome from "./components/Welcome"
+import React, { Component } from "react"
 
+class App extends Component {
+  render()  {
+    return (
+      <div className="App">
+        <Greet name="Grace"/>
+        <Greet name="Jeremiah"/>
+        <Greet name="Clark"/>
+        <Greet name="Bruce"/>
+        {/* <Welcome /> */}
+        </div>
+    )
+  }
+}
 
-// const Greet = () =><h1>Hello Jeremiah</h1>
-
-// export default Greet
+export default App;
 
 // import MainPage from "./FirstProject/object"
 
