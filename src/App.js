@@ -2,6 +2,7 @@ import Greet from "./components/Greet";
 import Welcome from "./components/Welcome"
 import React, { Component } from "react"
 import Message from "./components/message";
+import Counter from "./components/counter";
 import "./App.css"
 class App extends Component {
   render()  {
@@ -9,11 +10,12 @@ class App extends Component {
       <div className="App">
         {/* <Greet name="Diana"/>
         <Greet name="Clark"/>
-        <Greet name="Bruce"/> */}
-        {/* <Welcome name = "Clark" heroname = "Superman" />
+        <Greet name="Bruce"/> 
+        <Welcome name = "Clark" heroname = "Superman" />
         <Welcome name = "Bruce" heroname = "Batman" />
-        <Welcome name = "Diana" heroname = "Wonder Woman" /> */}
-        <Message />
+        <Welcome name = "Diana" heroname = "Wonder Woman" /> 
+        <Message />*/}
+        <Counter />
         </div>
     )
   }
