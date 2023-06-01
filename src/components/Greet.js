@@ -1,4 +1,4 @@
-import React from "react"
+import React, { Component } from "react"
 // const Greet = () =>{
 // return React.createElement (
 //     "div",
@@ -13,8 +13,10 @@ import React from "react"
 // /* <h1>Hello Jeremiah</h1> */
 // )}
 
-const Greet = props => {
+// const Greet = props => {
     
-return <h1>Hello {props.name}</h1>
-}
-export default Greet
+// return <h1>Hello {props.name}</h1>
+// }
+// export default Greet
+
+

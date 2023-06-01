@@ -1,16 +1,19 @@
 import Greet from "./components/Greet";
 import Welcome from "./components/Welcome"
 import React, { Component } from "react"
-
+import Message from "./components/message";
+import "./App.css"
 class App extends Component {
   render()  {
     return (
       <div className="App">
-        <Greet name="Grace"/>
-        <Greet name="Jeremiah"/>
+        {/* <Greet name="Diana"/>
         <Greet name="Clark"/>
-        <Greet name="Bruce"/>
-        {/* <Welcome /> */}
+        <Greet name="Bruce"/> */}
+        {/* <Welcome name = "Clark" heroname = "Superman" />
+        <Welcome name = "Bruce" heroname = "Batman" />
+        <Welcome name = "Diana" heroname = "Wonder Woman" /> */}
+        <Message />
         </div>
     )
   }
