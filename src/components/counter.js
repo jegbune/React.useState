@@ -10,7 +10,7 @@ class Counter extends Component {
       }
       increment() {
         this.setState({
-            count: this.state.count + 1
+            count: this.state.count + 2
         },
         () => {
             console.log ("callback value", this.state.count)
