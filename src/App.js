@@ -3,12 +3,13 @@ import Welcome from "./components/Welcome"
 import React, { Component } from "react"
 import Message from "./components/message";
 import Counter from "./components/counter";
+import FunctionClick from "./components/FunctionClick"
 import "./App.css"
 class App extends Component {
   render()  {
     return (
       <div className="App">
-        
+        <FunctionClick />
         {/* <Greet name="Diana"/>
         <Greet name = "Diana" heroname = "Wonder Woman" />
         <Welcome name = "Clark" heroname = "Superman" />
@@ -16,8 +17,8 @@ class App extends Component {
         <Greet name="Bruce"/> 
         <Welcome name = "Bruce" heroname = "Batman" />
         <Welcome name = "Diana" heroname = "Wonder Woman" />
-        <Message />*/}
          <Counter /> 
+        <Message />*/}
         </div>
     )
   }
