@@ -11,15 +11,17 @@ class Counter extends Component {
 
   }
   Increment(){
-    this.setState({
-      count: this.state.count + 1
-    })
+    this.setState((prevState,props) =>({
+      count: prevState.count + 1
+    }),
+    () => (console.log(this.state.count)))
   }
 
+
   Decrement(){
-    this.setState({
-      count: this.state.count - 1
-    })
+    this.setState(prevState =>({
+      count: prevState.count -  1
+    }))
   }
 
   render() {
