@@ -19,7 +19,7 @@ class ParentComponent extends PureComponent {
     render() {
         return 
          <div>
-            <ChildComponent />
+            <ChildComponent greetHandler= {this.greetParent} />
          </div>
         
     }
