@@ -9,7 +9,7 @@ class FunctionClick extends PureComponent {
         }
     }
 
-    clickHander() {
+    clickHandler() {
         console.log("button clicked")
     }
 
