@@ -17,12 +17,12 @@ class ParentComponent extends PureComponent {
     }
 
     render() {
-        return 
+        return (
          <div>
             <ChildComponent greetHandler= {this.greetParent} />
          </div>
         
-    }
+    )}
 }
 
 export default ParentComponent
