@@ -9,11 +9,13 @@ import EventBind from "./components/EventBind"
 import "./App.css"
 import ParentComponent from "./components/ParentComponent";
 import UserGreeting from "./components/UserGreeting";
+import Mapping from "./components/Mapping";
 class App extends Component {
   render()  {
     return (
       <div className="App">
-        <UserGreeting />
+        <Mapping />
+        {/* <UserGreeting /> */}
         {/* <ParentComponent /> */}
         {/* <EventBind /> */}
 
