@@ -9,12 +9,16 @@ import EventBind from "./components/EventBind"
 import "./App.css"
 import ParentComponent from "./components/ParentComponent";
 import UserGreeting from "./components/UserGreeting";
-import Mapping from "./components/Mapping";
+import NameList from "./components/NameList";
+import Stylesheet from "./components/stylesheet";
+import Inline from "./inline";
 class App extends Component {
   render()  {
     return (
       <div className="App">
-        <Mapping />
+        <Inline />
+        {/* <Stylesheet primary = {true} /> */}
+        {/* <NameList /> */}
         {/* <UserGreeting /> */}
         {/* <ParentComponent /> */}
         {/* <EventBind /> */}
