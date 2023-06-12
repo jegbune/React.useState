@@ -16,8 +16,8 @@ class App extends Component {
   render()  {
     return (
       <div className="App">
-        <Inline />
-        {/* <Stylesheet primary = {true} /> */}
+        {/* <Inline /> */}
+        <Stylesheet primary = {true} />
         {/* <NameList /> */}
         {/* <UserGreeting /> */}
         {/* <ParentComponent /> */}
