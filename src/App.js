@@ -21,7 +21,7 @@ class App extends Component {
     return (
       <div className="App">
         <h1 className= 'error'>Error</h1>
-        <h1 className= {styles.sucess}>Sucess</h1>
+        <h1 className= {styles.success}>Success</h1>
         {/* <Inline /> */}
         {/* <Stylesheet primary = {true} /> */}
         {/* <NameList /> */}
