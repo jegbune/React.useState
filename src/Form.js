@@ -25,14 +25,18 @@ class Form extends PureComponent {
         
         handleTopicChange = event => {
             this.setState({
-                topic: event.target.value
+                topic: event.target.value 
             })
+        }
+
+        handleSubmit = event => {
+            alert( `${this.state.username} ${this.state.comments} ${this.state.topic}`)
         }
     
 
     render() {
         return (
-            <form>
+            <form onSubmit={this.handleSubmit}>
             <div>
                 <label>Username</label>
                 <input type='text' value={this.state.username} onChange={this.handleUsernameChange} />
@@ -51,6 +55,8 @@ class Form extends PureComponent {
                 <option value="vue">Vue</option>
                 </select> 
             </div>
+
+            <button>Submit</button>
             </form>
         )
     }
