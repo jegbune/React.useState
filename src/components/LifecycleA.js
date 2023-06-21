@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import LifecycleB from './LifecycleB'
 
 class LifecycleA extends Component{
     constructor(props) {
@@ -22,10 +23,17 @@ static getDerivedStateFromProps(props, state) {
 
     render() {
         console.log('LifecycleA render')
-        return <div>
+        return(<div>
+        <div>
             Lifecycle A
         </div>
+
+            <LifecycleB/>
+        </div> 
+        )
     }
+    
+    
 }
 
 export default LifecycleA
