@@ -1,6 +1,6 @@
 import Greet from "./components/Greet";
 import Welcome from "./components/Welcome"
-import React, { Component } from "react"
+import React, { Component, Fragment } from "react"
 import Message from "./components/message";
 import Counter from "./components/counter";
 import FunctionClick from "./components/FunctionClick"
@@ -16,12 +16,14 @@ import "./appStyles.css"
 import styles from "./appStyles.module.css"
 import Form from "./Form";
 import LifecycleA from "./components/LifecycleA";
+import FragmentDemo from "./components/FragmentDemo";
 
 class App extends Component {
   render()  {
     return (
       <div className="App">
-        <LifecycleA />
+        <FragmentDemo />
+        {/* <LifecycleA /> */}
         {/* <Form /> */}
         {/* <h1 className= 'error'>Error</h1> */}
         {/* <h1 className= {styles.success}>Success</h1> */}
