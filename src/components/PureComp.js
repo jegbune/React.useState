@@ -10,6 +10,8 @@ class PureComp extends PureComponent {
     }
 
     render() {
+        console.log('*****************Pure Comp Render*****************')
+
         return (
             <div>Pure Component {this.state.name}</div>
         )
