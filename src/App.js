@@ -22,12 +22,13 @@ import PureComp from "./components/PureComp";
 import ParentComp from "./components/ParentComp";
 import RefsDemo from "./components/RefsDemo";
 import FRParentInput from "./components/FRParentInput";
+import PortalDemo from "./components/PortalDemo";
 
 class App extends Component {
   render()  {
     return (
       <div className="App">
-        <FRParentInput />
+        {/* <FRParentInput /> */}
         {/* <RefsDemo /> */}
         {/* <ParentComp/> */}
         {/* <Table/> */}
