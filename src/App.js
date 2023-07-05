@@ -23,11 +23,14 @@ import ParentComp from "./components/ParentComp";
 import RefsDemo from "./components/RefsDemo";
 import FRParentInput from "./components/FRParentInput";
 import PortalDemo from "./components/PortalDemo";
-
+import Hero from "./components/Hero"
 class App extends Component {
   render()  {
     return (
       <div className="App">
+        <Hero heroName='Batman'/>
+        <Hero heroName='Superman'/>
+        {/* <PortalDemo /> */}
         {/* <FRParentInput /> */}
         {/* <RefsDemo /> */}
         {/* <ParentComp/> */}

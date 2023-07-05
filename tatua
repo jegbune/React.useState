@@ -1,0 +1,457 @@
+[33mcommit 94d95d0cd233dd81b0fe3c030531d8d655404f9a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Tue Jul 4 13:25:48 2023 +0100
+
+    React lesson on ReactDOM.createPortal
+
+[33mcommit 345a1365daf30fab26d97e5a4cd1568229a31e8b[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Mon Jul 3 13:07:45 2023 +0100
+
+    React lesson on reactDOM.createPortal
+
+[33mcommit 0b0c04716697764a1e8a4f71e43cc4c2ad29b551[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Sun Jul 2 12:44:18 2023 +0100
+
+    React lesson on Input Ref and Forward Ref
+
+[33mcommit 04fa017c7e556b23235695f541b25e5ef6c5bec6[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Sat Jul 1 21:35:18 2023 +0100
+
+    React lesson on React.inputRef; used to access an element after page load
+
+[33mcommit 5ef13afec05427ec7fbe74bcee543ea711880872[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Fri Jun 30 13:10:46 2023 +0100
+
+    How to stop function based component from re-rendering
+
+[33mcommit 97828bd7bd9d93bbc29928dfd9577e563a837a16[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Thu Jun 29 13:06:12 2023 +0100
+
+     React MemoComponent Function based component
+
+[33mcommit b2c6cecef6afa609a9cb0b74b01f36312afb9459[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Wed Jun 28 13:01:49 2023 +0100
+
+    Difference between PureComponent and Component rendering
+
+[33mcommit 412fbe747b26c33ceefc3c582239f4df9d3fd47b[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Tue Jun 27 12:47:54 2023 +0100
+
+    React PureComponent
+
+[33mcommit db54b5eccafb8268b1ca0ae1af029f31dbb7efd6[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Mon Jun 26 12:34:27 2023 +0100
+
+    React snippet for React.Fragment; Shortcut
+
+[33mcommit 61a84699306b5f6813c62865f8ab99a68bfed107[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Sun Jun 25 12:31:55 2023 +0100
+
+    React.Fragment item.map()
+
+[33mcommit 5ae82af2931de2982c6f4526426e880064d506a6[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Sat Jun 24 12:23:59 2023 +0100
+
+    React lesson on Table and React.Fragment
+
+[33mcommit 2ebae0ec19620828f43e2722ee46dc3f32d5399b[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Fri Jun 23 12:13:08 2023 +0100
+
+    React lesson on Fragment
+
+[33mcommit 1b241bc358637e79b2609c3f3012bec17261c17a[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Thu Jun 22 12:08:11 2023 +0100
+
+    React Component mounting ChangeState
+
+[33mcommit 9f698735c8174e35d1e35957233deed367d1950d[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Wed Jun 21 11:47:37 2023 +0100
+
+    Order of Mount of React component
+
+[33mcommit 99d1d30d075f54b031c2e0daa8f438eec4e4bfc5[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Tue Jun 20 11:35:26 2023 +0100
+
+    React lesson on component Mounting
+
+[33mcommit 6108f54dbba54024b6207d8ec4f1e7d0be811204[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Thu Jul 20 00:11:49 2023 +0100
+
+    React lesson on Form and onChange attribute
+
+[33mcommit 23a43ed4d0ff4fc6e8b127c1c27fa1c8b1e0660f[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Mon Jun 19 04:56:33 2023 +0100
+
+     React Form Submission Retrieve Data from form Element
+
+[33mcommit 20c51fdde049f965ccb597188ba9166315488d00[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Sun Jun 18 04:49:31 2023 +0100
+
+     React Form Submission Retrieve Data from form Element
+
+[33mcommit 3b2647bc35f8589fb84932f8f178cfbb6ddde6e1[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Sat Jun 17 04:42:46 2023 +0100
+
+     React js Form State handler
+
+[33mcommit d61adb0702601f27fa23664f4a96020477ae413b[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Fri Jun 16 04:27:51 2023 +0100
+
+     React js Form 'target.event.value'
+
+[33mcommit d3a943fd1d8ae9bb36c2fbeef637978cbaeec105[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Thu Jun 15 04:14:33 2023 +0100
+
+    React js Form Component
+
+[33mcommit 510dc37d4eb23895ae74530fcf03f186fe8caad0[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Wed Jun 14 04:09:10 2023 +0100
+
+    React Js module css can not be used in other child component except it is called
+
+[33mcommit da833d97872a6418fd74a1e3575771870aaaa2b1[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Tue Jun 13 04:05:26 2023 +0100
+
+     React jS module css
+
+[33mcommit 59f0302218e3d4a733707a8b3a3c6a94063c5e4e[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Mon Jun 12 03:55:22 2023 +0100
+
+    React styling component
+
+[33mcommit a0514a0fb186d448f4bf991691030176861c5cb9[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Sun Jun 11 19:17:45 2023 +0100
+
+    React Key and index
+
+[33mcommit 5f19034ce0505a4dd5175e10de4b76a0f96ce52b[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Sat Jun 10 20:04:34 2023 +0100
+
+    Array.map(x => expression)
+
+[33mcommit 0b71cdc79ce8c3717c19d25b6ddd34db18dd894b[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Sat Jun 10 19:30:32 2023 +0100
+
+    React lesson on conditional statement
+
+[33mcommit 97267a410854d736748b21da2f17059ea1e6dfb7[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Sat Jun 10 05:32:04 2023 +0100
+
+    React on ParentComponent and ChildComponent props
+
+[33mcommit 39e43158921f7ac1c732f7e6386a91f430dc11b2[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Fri Jun 9 05:19:12 2023 +0100
+
+    React on ParentComponent and ChildComponent props
+
+[33mcommit 74d3c523262431a678e6dd07ac9977ad086aa6b0[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Thu Jun 8 00:00:27 2023 +0100
+
+    React on ParentComponent and ChildComponent props
+
+[33mcommit bd275cd5bc2764593109a0625f006dad6a048581[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Wed Jun 7 23:57:13 2023 +0100
+
+    React on ParentComponent and ChildComponent props
+
+[33mcommit 42485e3ef9e56cc777be7ff20a45d630b26443c5[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Wed Jun 7 23:47:03 2023 +0100
+
+    React EventBind.js
+
+[33mcommit 3f41b7c87d3479bbb2e6fc3ad27477880057e613[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Tue Jun 6 17:44:36 2023 +0100
+
+    Update on function call and function
+
+[33mcommit 08c38c4c47978ce315effd9ed56575e320f1dbb4[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Tue Jun 6 16:28:34 2023 +0100
+
+    React destructure of state and props
+
+[33mcommit 3753ba62d8bc583f736db7fa1cd0eceba8d67b26[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Mon Jun 5 22:03:38 2023 +0100
+
+    React class component setSet
+
+[33mcommit 7cf4d22e5399c743bcbbd50606f15f81754ba5b1[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Mon Jun 5 21:20:57 2023 +0100
+
+    React class Component on state and setState()
+
+[33mcommit e5b24db9df6700e2ba75f731a14acea2117c8cd4[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Sat Jun 3 01:44:21 2023 +0100
+
+    JSX this.State
+
+[33mcommit d042d790a83a3935c7ecfdc09e69ac4747e3f238[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Fri Jun 2 05:33:42 2023 +0100
+
+    React setState counter increment by 2
+
+[33mcommit f21ba7f12f7b234d5fb8f3f3352babf4c817e72d[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Thu Jun 1 05:30:21 2023 +0100
+
+    React setState class component
+
+[33mcommit b45ef674228b2ff288a20113f622c1245e91d7aa[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Thu Jun 1 04:47:28 2023 +0100
+
+    React State on class component
+
+[33mcommit 5d0cf9162b8efa1c292d5719abc5e02173f2e792[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Wed May 31 01:40:20 2023 +0100
+
+    React Props JSX
+
+[33mcommit 3dd45900f28442ebc63ef7e5eef501637aac8cbe[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Wed May 31 00:52:59 2023 +0100
+
+    React class component and functional component
+
+[33mcommit 09151183ded93eea1da9f34d6414b1805914e7dd[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Tue May 30 22:41:24 2023 +0100
+
+    React lesson on class Component
+    s
+
+[33mcommit 949693da27d2504a5f5120d556965540d3c0cc5c[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Thu May 25 20:29:37 2023 +0100
+
+    React JSX React component file path
+
+[33mcommit 34f680d69d25ce5b878d6170fdf5ebe730f59ec5[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Thu May 25 15:45:30 2023 +0100
+
+    JSX React First challenge
+
+[33mcommit 486362c24dce2a3d9c01c034107a80fbbcf7fefd[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Thu May 25 14:54:09 2023 +0100
+
+    React lesson on different methods of rendering component
+
+[33mcommit afb1d8a4f4803d07c8b4a0fe5eed03ece1e5f278[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Thu May 25 14:32:10 2023 +0100
+
+    React lesson on React component
+
+[33mcommit a15e13fb929477644666ddfce9a3d7f8fd8b6b18[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Thu May 25 13:15:22 2023 +0100
+
+    React Component
+
+[33mcommit e6c12f217c05ffb11b519a1ab338f9036c8b5fa2[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Thu May 25 09:22:08 2023 +0100
+
+    Restart React lesson
+
+[33mcommit a182d2ba6ea916f686513186fb5f77ba5d90c1f6[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Mon May 22 22:56:19 2023 +0100
+
+    React parent useState property working
+
+[33mcommit 0d2f826d64cdb05cda7f001875f999c3b1d3c767[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Mon May 22 22:37:40 2023 +0100
+
+    React parent useState property working
+
+[33mcommit 0e70f33a25fb7b70ede253fefdab60993454e0f0[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Mon May 22 22:27:20 2023 +0100
+
+    React parent useState property
+
+[33mcommit 110db3bb0163aee643326a48b38bb60f1f58d4e2[m
+Merge: c47d205 c930cf7
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Sat May 20 04:21:46 2023 +0100
+
+    git pull for rename of repository
+
+[33mcommit c47d2050a6f9fa20654d8f816a4f5363eb09214d[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Sat May 20 03:57:27 2023 +0100
+
+    setup for React deployment
+
+[33mcommit c930cf7872b5494532010735fc8d258abe5496ef[m
+Author: Jeremiah Egbune I <110425084+jegbune@users.noreply.github.com>
+Date:   Sat May 20 03:26:53 2023 +0100
+
+    Delete CNAME
+
+[33mcommit 4fdb6e9b73dbfdef5046ead8976e0d23efc51af0[m
+Author: Jeremiah Egbune I <110425084+jegbune@users.noreply.github.com>
+Date:   Sat May 20 03:26:04 2023 +0100
+
+    Create CNAME
+
+[33mcommit da64427a4d3a537d7bfd891a065c8c3441efc450[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Sat May 20 03:18:29 2023 +0100
+
+    setup gh-pages
+
+[33mcommit ebabb8fa59bf4335d81d78355a43f71daf994801[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Sat May 20 03:00:19 2023 +0100
+
+    React tenary switch State
+
+[33mcommit 96f105113b8814b5f9c459c98d376f87f6f86e65[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Sat May 20 02:47:09 2023 +0100
+
+    React tenary for change in backgroundColor
+
+[33mcommit 2c952a32e524517d8e6e2e402aa083eea10354d0[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Fri May 19 02:57:37 2023 +0100
+
+    update on React
+
+[33mcommit 8a84bde33518833e0b1715c6820b46c7ddc3d7af[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Wed May 17 22:43:45 2023 +0100
+
+    counter App
+
+[33mcommit 834c3da624ebe951f87845edc41fbc5932813b97[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Wed May 17 00:11:05 2023 +0100
+
+    advance of React.useState()
+
+[33mcommit 609b968e96fa20b64ca74661eef285add22587aa[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Mon May 15 22:40:53 2023 +0100
+
+    advance of React.useState()
+
+[33mcommit 1142f50ef66d96a88c3028bd50a7c62fcaa68d01[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Mon May 15 21:45:38 2023 +0100
+
+    advance of React.useState()
+
+[33mcommit 8daf02975d421d5a7c205e4112acce53c37d133d[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Sun May 14 23:04:19 2023 +0100
+
+    advance React.useState() update
+
+[33mcommit ce51160f15aef76917f6e858cb07508bf410ee7a[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Sun May 14 22:59:20 2023 +0100
+
+    advance of React.useState()
+
+[33mcommit c7184b577dc9114fa89dd43806b757c609ebd911[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Sat May 13 23:27:20 2023 +0100
+
+    React update on Profile Card
+
+[33mcommit 96f0286aaba7cea6fbc62cca2a3988012683cf9f[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Fri May 12 22:20:43 2023 +0100
+
+    React update on React.useState()
+
+[33mcommit 027ef06adcb80a3de2d7b483650917bc0df92f8b[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Thu May 11 03:07:53 2023 +0100
+
+    React.useState breakdown
+
+[33mcommit 7e96b349ee3a2aece26c1c879ada0bb938c1b793[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Thu May 11 01:19:03 2023 +0100
+
+    reposition of the meme image
+
+[33mcommit 33bad2545449ce04e56913938ead42114ba9ea1b[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Wed May 10 22:14:12 2023 +0100
+
+    React update on React.useState() to redeclare a const variable
+
+[33mcommit 8f8b2a067fd706fbe058447874dc5de9c1104e3c[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Tue May 9 07:44:06 2023 +0100
+
+    Counter App with React useState
+
+[33mcommit 9c0b8e34b04f8923c40a3323db31e4c284b792f4[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Mon May 8 22:01:49 2023 +0100
+
+    Update on React.useState()
+
+[33mcommit 4c91f6aad3189081af71bbfb3590536ed603631e[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Mon May 8 02:11:02 2023 +0100
+
+    Class on state; useState()
+
+[33mcommit 6c58341416dc6d653b2a6ce88fa86d618ef09e82[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Fri May 5 21:13:29 2023 +0100
+
+    React lesson on push array
+
+[33mcommit 2089191694f2d195bf0c4f5cb3098b513f214ad2[m
+Author: Jeremiah Ikechukwu Egbune <jegbune1@gmail.com>
+Date:   Wed May 3 05:37:13 2023 +0100
+
+    Solo Project on React lesson
