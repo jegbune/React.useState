@@ -13,13 +13,14 @@ class ClickCounter extends PureComponent {
     incrementCount = () => {
     this.setState(prevState => {
         return{count: prevState.count + 1}
-    })
+    }) 
     }
 
     render() {
+        const {count} = this.state
         return (
-            <div>
-                <button onClick={this.incrementCount}>Clicked X times</button>
+            <div> 
+                <button onClick={this.incrementCount}>Clicked {count} times</button>
             </div>
         )
     }
