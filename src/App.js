@@ -33,7 +33,7 @@ class App extends Component {
       <div className="App">
         <ClickCounter name ='Jeremiah' />
 
-        <HoverCounter />.
+        <HoverCounter name = 'Jeremiah' />.
 
         {/* <ErrorBoundary>
         <Hero heroName='Batman'/>
