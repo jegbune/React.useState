@@ -14,4 +14,4 @@ class HoverCounter extends PureComponent {
     }
 }
 
-export default withCounter (HoverCounter)
+export default withCounter (HoverCounter,10)
