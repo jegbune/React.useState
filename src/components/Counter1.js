@@ -19,7 +19,7 @@ class Counter1 extends PureComponent {
     render() {
         return (
            <div>
-                {this.props.render(this.state.count, this.incrementCount )}
+                {this.props.render(this.state.count, this.incrementCount)}
            </div> 
         )
     }
