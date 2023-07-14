@@ -36,17 +36,18 @@ class App extends Component {
     return (
       <div className="App">
 
-      <Counter1 
-      render ={(count, incrementCount) => (
+      <Counter1>
+      {(count, incrementCount) => (
       <ClickCounterTwo count={count} incrementCount = {incrementCount} />)
       }
-      />
-      <Counter1 
-        render ={(count, incrementCount) => (
-          <HoverCounterTwo count={count} incrementCount = {incrementCount} />)
+      </Counter1>
+      <Counter1>
+      {(count, incrementCount) => (
+      <HoverCounterTwo count={count} incrementCount = {incrementCount} />)
       }
-      />
-         {/* <ClickCounterTwo />
+      </Counter1>
+      
+      {/* <ClickCounterTwo />
 
       <HoverCounterTwo />
 
